@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ott",
+    "password": "ott1234",
+    "database": "ott_service",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "ott",
+    "password": "ott1234",
+    "database": "ott_service",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "ott",
+    "password": "ott1234",
+    "database": "ott_service",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
